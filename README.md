@@ -8,10 +8,11 @@
 
 ### Sobre mim
 
-- 💻 Construo aplicações web do banco de dados à interface
-- 🎯 Em busca da **primeira oportunidade** como desenvolvedor
-- 🌱 Atualmente estudando arquitetura de software e boas práticas com TypeScript
-- 🎮 Apaixonado por design gamificado e interfaces com personalidade
+- 💻 Em busca da primeira oportunidade como desenvolvedor
+- 💡 Transformo ideias em aplicações web funcionais, do banco de dados à interface
+- 🏗️ Valorizo boas práticas, arquitetura bem pensada e código que outros devs consigam ler sem sofrer
+- ✨ Acredito que bom código é aquele que é legível, eficiente e resolve o problema — nessa ordem
+- 🌱 Sempre estudando: Atualmente estudando Clean Architecture, SOLID e padrões de projeto aplicados a projetos reais
 
 ### 🚀 Em que estou trabalhando
 
@@ -47,13 +48,13 @@
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**Pétrica**](#) | E-commerce fullstack de floricultura | Next.js, Express, Prisma, PostgreSQL |
-| [**Adventurer Route**](#) | App de produtividade gamificado (RPG) | Next.js, TypeScript |
-| [**Wasushi**](#) | — | — |
-| [**BeautixPro**](#) | — | — |
-| [**FlashAI**](#) | — | — |
+| [**Pétrica**](https://github.com/Felipe-Yasuo/floricultura-petrica) | E-commerce fullstack de floricultura | Next.js, Express, Prisma, PostgreSQL |
+| [**Wasushi**](https://github.com/Felipe-Yasuo/wasushi) | — | — |
+| [**Adventurer Route**](https://github.com/Felipe-Yasuo/adventurer-route) | App de produtividade gamificado (RPG) | Next.js, TypeScript |
+| [**BeautixPro**](https://github.com/Felipe-Yasuo/beautixpro) | — | — |
+| [**FlashAI**](https://github.com/Felipe-Yasuo/flashai) | — | — |
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-yasuo-canales-katsuyama)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipe.yasuo@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/felipe-yasuo-canales-katsuyama])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.yasuo@hotmail.com)
