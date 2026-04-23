@@ -1,10 +1,4 @@
-<h1 align="center">Olá, eu sou o Yasuo 👋</h1>
-
-<p align="center">
-  Desenvolvedor fullstack focado em TypeScript · 🇧🇷 Brasil
-</p>
-
----
+<h1 align="center">Olá! Bem-Vindo ao meu GitHub</h1>
 
 ### Sobre mim
 
