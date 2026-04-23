@@ -1,16 +1,15 @@
-## Hi there 👋
+Yasuo
+Desenvolvedor fullstack focado em TypeScript. Em busca da primeira oportunidade na área.
+Construo aplicações web do banco de dados à interface, com atenção especial a arquitetura limpa e boa experiência de uso.
+Stack
+Frontend — Next.js, React, TypeScript
+Backend — Node.js, Express, Prisma
+Banco — PostgreSQL
+Projetos em destaque
 
-<!--
-**Felipe-Yasuo/Felipe-Yasuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pétrica — E-commerce fullstack de floricultura. Arquitetura Service/Controller/Route, autenticação e CRUD completo.
+Adventurer Route — App de produtividade gamificado com estética RPG medieval. Foco em design system e UX.
+Wasushi · BeautixPro · FlashAI — Outros projetos do portfólio.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contato
+LinkedIn · email@exemplo.com
