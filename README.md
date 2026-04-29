@@ -8,11 +8,6 @@
 - ✨ Acredito que bom código é aquele que é legível, eficiente e resolve o problema — nessa ordem
 - 🌱 Sempre estudando: Atualmente estudando Clean Architecture, SOLID e padrões de projeto aplicados a projetos reais
 
-### 🚀 Em que estou trabalhando
-
-- 🌸 **Pétrica** — E-commerce fullstack de floricultura com Next.js, Express e Prisma
-- ⚔️ **Adventurer Route** — App de produtividade gamificado com estética RPG medieval
-
 ### 🛠️ Stack
 
 **Frontend**
