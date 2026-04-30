@@ -37,10 +37,10 @@
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**Pétrica**](https://github.com/Felipe-Yasuo/floricultura-petrica) | E-commerce fullstack de floricultura | Next.js, Express, Prisma, PostgreSQL, Node, Typescript |
-| [**Wasushi**](https://github.com/Felipe-Yasuo/wasushi) | — | — | 
+| [**Pétrica**](https://github.com/Felipe-Yasuo/floricultura-petrica) | E-commerce fullstack de floricultura | Next.js, Express, Prisma, PostgreSQL, Node, Typescript, Stripe |
+| [**Wasushi**](https://github.com/Felipe-Yasuo/wasushi) | Sistema de gerenciamento de pedidos para restaurante | Next.js, Express, Prisma, PostgreSQL, Node, Typescript, React Native | 
+| [**BeautixPro**](https://github.com/Felipe-Yasuo/beautixpro) | Plataforma SaaS de gestão e agendamento | Next.js, TypeScript, PostgreSQL, Prisma, Stripe |
 | [**Adventurer Route**](https://github.com/Felipe-Yasuo/adventurer-route) | App de produtividade gamificado (RPG) | Next.js, TypeScript, PostgreSQL |
-| [**BeautixPro**](https://github.com/Felipe-Yasuo/beautixpro) | — | — |
 | [**FlashAI**](https://github.com/Felipe-Yasuo/flashai) | — | — |
 
 ### 📫 Contato
