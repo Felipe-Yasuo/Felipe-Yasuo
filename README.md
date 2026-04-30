@@ -38,8 +38,8 @@
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | [**Pétrica**](https://github.com/Felipe-Yasuo/floricultura-petrica) | E-commerce fullstack de floricultura | Next.js, Express, Prisma, PostgreSQL, Node, Typescript |
-| [**Wasushi**](https://github.com/Felipe-Yasuo/wasushi) | — | — |
-| [**Adventurer Route**](https://github.com/Felipe-Yasuo/adventurer-route) | App de produtividade gamificado (RPG) | Next.js, TypeScript |
+| [**Wasushi**](https://github.com/Felipe-Yasuo/wasushi) | — | — | 
+| [**Adventurer Route**](https://github.com/Felipe-Yasuo/adventurer-route) | App de produtividade gamificado (RPG) | Next.js, TypeScript, PostgreSQL |
 | [**BeautixPro**](https://github.com/Felipe-Yasuo/beautixpro) | — | — |
 | [**FlashAI**](https://github.com/Felipe-Yasuo/flashai) | — | — |
 
