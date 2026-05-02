@@ -2,11 +2,10 @@
 
 ### Sobre mim
 
-- 💻 Em busca da primeira oportunidade como desenvolvedor
-- 💡 Transformo ideias em aplicações web funcionais, do banco de dados à interface
-- 🏗️ Valorizo boas práticas, arquitetura bem pensada e código que outros devs consigam ler sem sofrer
-- ✨ Acredito que bom código é aquele que é legível, eficiente e resolve o problema — nessa ordem
-- 🌱 Sempre estudando: Atualmente estudando Clean Architecture, SOLID e padrões de projeto aplicados a projetos reais
+- 💻 Desenvolvedor web com foco em criação de aplicações modernas e bem estruturadas
+- 💡 Experiência prática construindo projetos do banco de dados à interface
+- 🏗️ Forte preocupação com legibilidade, manutenção e boas práticas
+- 🌱 Estudando Clean Architecture, SOLID e padrões de projeto
 
 ### 🛠️ Stack
 
